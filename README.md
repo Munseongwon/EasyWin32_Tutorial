@@ -1,26 +1,24 @@
-# EasyWin32 
-### WinApi(구: Win32API)를 C언어로 가볍게 익힐 수 있는 프레임 워크
+# EasyWin32
+## WinApi(구: Win32API)를 C언어로 가볍게 익힐 수 있는 프레임 워크
+<br>
 
 ## 진행한 챕터
-* EW32 기본 요소(사각형, 원, 문자 색상 입히기)
-* 마우스 이벤트 사용하기
-* 컨트롤 객체(리스트 박스, 에디트 컨트롤, 버튼)사용하기
-* 간단한 소켓 프로그램 작성
-* 블로그 내용(HTML 문서)파싱
-
-## 캡처본
 ### 1. 기본 요소
-<img src="EasyWin32(Tutorial-1).png" alt="Intro Screen" width="200px" height="400px"><img src="Playing.png" alt="playing Screen" width="200px" height="400px"><img src="playing.png" alt="Intro Screen" width="200px" height="400px"><img src="exploring.png" alt="Exploring Screen" width="200px" height="400px">
+<img src="/Part1 - Fundamental_Element/EasyWin32(Tutorial1-1).png" alt="Intro Screen" width="300px" height="300px"><img src="/Part1 - Fundamental_Element/EasyWin32(Tutorial1-2).png" alt="playing Screen" width="300px" height="300px"><img src="/Part1 - Fundamental_Element/EasyWin32(Tutorial1-3).png" alt="Intro Screen" width="300px" height="300px"><img src="/Part1 - Fundamental_Element/EasyWin32(Tutorial1-4).png" alt="Exploring Screen" width="300px" height="300px">
 ### 2. 마우스 이벤트 사용
-
-
+<img src="/Part2 - Using_Mouse/EasyWin32(Tutorial2-1).png" alt="Intro Screen" width="300px" height="300px"><img src="/Part2 - Using_Mouse/EasyWin32(Tutorial2-2).png" alt="playing Screen" width="300px" height="300px"><img src="/Part2 - Using_Mouse/EasyWin32(Tutorial2-3).png" alt="Intro Screen" width="300px" height="300px"><img src="/Part2 - Using_Mouse/EasyWin32(Tutorial2-4).png" alt="Exploring Screen" width="300px" height="300px"><img src="/Part2 - Using_Mouse/EasyWin32(Tutorial2-5).png" alt="Exploring Screen" width="300px" height="300px"><img src="/Part2 - Using_Mouse/EasyWin32(Tutorial2-6).png" alt="Exploring Screen" width="300px" height="300px">
 ### 3. 컨트롤 객체 사용하기
-
-
+<img src="/Part3 - Using_Control/EasyWin32(Tutorial3-1).png" alt="Intro Screen" width="300px" height="300px"><img src="/Part3 - Using_Control/EasyWin32(Tutorial3-2).png" alt="playing Screen" width="300px" height="300px"><img src="/Part3 - Using_Control/EasyWin32(Tutorial3-3).png" alt="Intro Screen" width="300px" height="300px"><img src="/Part3 - Using_Control/EasyWin32(Tutorial3-4).png" alt="Exploring Screen" width="300px" height="300px">
 ### 4. 간단한 소켓 프로그래밍
-
-
+<img src="/Part4 - Network_Programming(Socket)/EasyWin32(Tutorial4-1).png" alt="Intro Screen" width="300px" height="300px"><img src="/Part4 - Network_Programming(Socket)/EasyWin32(Tutorial4-2).png" alt="playing Screen" width="300px" height="300px">
 ### 5. 블로그 내용 파싱
+<img src="/Part5 - Network_Programming(Winlnet)/EasyWin32(Tutorial5-1).png" alt="Intro Screen" width="300px" height="300px">
+<br>
+
+## 학습 기간
+> 24.3.1 ~ 24.3.15
+
+
 
 
 
