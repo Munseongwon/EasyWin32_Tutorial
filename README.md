@@ -9,6 +9,19 @@
 * 블로그 내용(HTML 문서)파싱
 
 ## 캡처본
+### 1. 기본 요소
+<img src="GameStart.png" alt="Intro Screen" width="200px" height="400px"><img src="Playing.png" alt="playing Screen" width="200px" height="400px"><img src="playing.png" alt="Intro Screen" width="200px" height="400px"><img src="exploring.png" alt="Exploring Screen" width="200px" height="400px">
+### 2. 마우스 이벤트 사용
+
+
+### 3. 컨트롤 객체 사용하기
+
+
+### 4. 간단한 소켓 프로그래밍
+
+
+### 5. 블로그 내용 파싱
+
 
 
 
