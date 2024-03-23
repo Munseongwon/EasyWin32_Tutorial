@@ -10,7 +10,7 @@
 
 ## 캡처본
 ### 1. 기본 요소
-<img src="GameStart.png" alt="Intro Screen" width="200px" height="400px"><img src="Playing.png" alt="playing Screen" width="200px" height="400px"><img src="playing.png" alt="Intro Screen" width="200px" height="400px"><img src="exploring.png" alt="Exploring Screen" width="200px" height="400px">
+<img src="EasyWin32(Tutorial-1).png" alt="Intro Screen" width="200px" height="400px"><img src="Playing.png" alt="playing Screen" width="200px" height="400px"><img src="playing.png" alt="Intro Screen" width="200px" height="400px"><img src="exploring.png" alt="Exploring Screen" width="200px" height="400px">
 ### 2. 마우스 이벤트 사용
 
 
