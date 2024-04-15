@@ -5,7 +5,7 @@
 > 24.3.1 ~ 24.3.15(계속 복습 중)
 
 ## 사용 언어
-![Langauge:C++](https://img.shields.io/badge/Language-C++-red) ![platform:Visual Studio](https://img.shields.io/badge/Platform-Visual_Studio-red)
+![Langauge:C](https://img.shields.io/badge/Language-C++-red) ![platform:Visual Studio](https://img.shields.io/badge/Platform-Visual_Studio-red)
 <br>
 
 ## 진행한 챕터
